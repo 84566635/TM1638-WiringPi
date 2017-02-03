@@ -4,7 +4,7 @@ git clone https://github.com/lanefu/WiringOtherPi.git
 
 cd WiringOtherPisudo
 
-./buildcd
+./build
 
 cd ..
 
