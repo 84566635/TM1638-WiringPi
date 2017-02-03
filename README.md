@@ -4,7 +4,7 @@ TM1638 library for the OrangePi
 
 git clone https://github.com/lanefu/WiringOtherPi.git
 
-cd WiringOtherPisudo
+cd WiringOtherPi
 
 ./build
 
